@@ -26,6 +26,8 @@
     <Folder Include="Areas\Visitante\Data\" />
     <Folder Include="Areas\Visitante\Models\" />
     <Folder Include="Areas\Visitante\Views\" />
+    <Folder Include="Views\Isa\" />
+    <Folder Include="Views\Jimmy\" />
   </ItemGroup>
 
 </Project>
